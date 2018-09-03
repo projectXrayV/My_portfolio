@@ -1,1 +1,3 @@
 This is my attempt at adding a file through bash to my repository
+Here us another change to my Git repository
+I'm still learning how to use GIT so I can introduce this to my class when we are working on group projects.
